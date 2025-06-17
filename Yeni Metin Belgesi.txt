@@ -1,0 +1,15 @@
+rm -rf dosyadı: Bu dosyayı siler
+---------------------------------------------------------
+$ git config --global user.name "Göktürk Akın Özsoy"
+
+$ git config --global user.email akinozsoy@gmail.com
+
+bu iki kod ile gite kendimizi tanıtıyoruz
+
+git log:kimin commit attığı hakkında bılgı verır
+
+git add:yeni bir commit eklemek için kullanılır
+
+git restore:dosyayı eskı halıne getırmek için kullanılır
+
+git switch:branchi olusturmak için kullanılır.
